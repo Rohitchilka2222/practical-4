@@ -6,6 +6,6 @@ name VARCHAR(100),
  marks INT
 );
 INSERT INTO students (name, marks) VALUES
-('rohit', 85),
-('rohan', 90),
-('ronak', 76);
+('Pranav', 85),
+('Pratham', 90),
+('Omkar', 76);
